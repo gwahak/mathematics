@@ -1,0 +1,15 @@
+{
+  "expected_files": 31,
+  "read_files": 31,
+  "missing_files": [],
+  "expected_triples": 481,
+  "covered_triples": 481,
+  "observed_solutions": 3222,
+  "multiplied_by_8": 25776,
+  "complement_pairs": 256,
+  "matched_pairs": 256,
+  "mismatched_pairs": [],
+  "unknown_pairs": 0,
+  "errors": [],
+  "complete": true
+}
